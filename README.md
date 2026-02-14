@@ -15,4 +15,4 @@ Quantitative professional with 8 years of experience in capital markets, current
 
 ## Connect
 
-[LinkedIn]((https://www.linkedin.com/in/gethin-wade/))
+[LinkedIn]((https://www.linkedin.com/in/gethin-wade/)
