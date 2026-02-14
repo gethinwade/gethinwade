@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Gethin
 
-<!--
-**gethinwade/gethinwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative professional with 8 years of experience in capital markets, currently pursuing an MS in Statistics (ML concentration) at Columbia University.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, R, SQL
+- **Focus Areas:** Statistical modeling, machine learning, signal & image processing, time series analysis, and spatial statistics
+
+## What I'm currently working on
+
+- Coursework in regression, Bayesian inference, and machine learning
+- Signal processing projects using RTL-SDR and GNU Radio
+- Building out this portfolio
+
+## Connect
+
+[LinkedIn]([your-link](https://www.linkedin.com/in/gethin-wade/))
