@@ -1,6 +1,6 @@
 ## Hi, I'm Gethin
 
-Quantitative professional with 8 years of experience in capital markets, currently pursuing a Master's Degree in Statistics (ML concentration) at Columbia University.
+Quantitative professional with 8 years of experience in capital markets, currently pursuing a Master's Degree in Statistics (ML Concentration) at Columbia University.
 
 ## What I work with
 
@@ -10,7 +10,7 @@ Quantitative professional with 8 years of experience in capital markets, current
 ## What I'm currently working on
 
 - Coursework in regression, Bayesian inference, time series analysis, and machine learning
-- Signal processing projects using RTL-SDR and GNU Radio
+- Signal & image processing projects using RTL-SDR, GNU Radio, CIFAR-10, ImageNet
 - Building out this portfolio
 
 ## Connect
