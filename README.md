@@ -1,6 +1,6 @@
 ## Hi, I'm Gethin
 
-Quantitative professional with 8 years of experience in finance, currently pursuing a Master's degree in Statistics (ML Concentration) at Columbia University.
+Quantitative professional with 8 years of experience in finance, currently pursuing a Master's degree in Statistics (ML Concentration) at Columbia University to deepen my understanding of advanced data analysis and predictive modeling.
 
 ## What I work with
 
